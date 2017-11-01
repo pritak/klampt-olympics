@@ -11,6 +11,7 @@ Final submitted code which includes all calculations and programming for the rob
 ### final_document.pdf 
 The final project submission document which provides in-depth analysis of the final code and all components.
 
+--------
 **Learn more about Klampt:**
 * [GitHub](https://github.com/krishauser/Klampt)
 * [Website](http://motion.pratt.duke.edu/klampt/)
